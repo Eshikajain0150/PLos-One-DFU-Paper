@@ -1,4 +1,4 @@
-# Texture-Aware Conditional Diffusion for DFU Synthetic Progression (Reproducible Code)
+# Texture-Aware Diffusion Modelling for Severity-Conditioned Synthetic Progression-Like Visualization of Diabetic Foot Ulcers from Single Images (Reproducible Code)
 
 This repository implements the method described in the manuscript **"Texture-Aware Diffusion Modelling for Synthetic Progression Prediction of Diabetic Foot Ulcers from Single Images"**:
 - Preprocessing (256×256, background suppression, multi-scale texture enhancement, histogram matching, elastic deformation)
