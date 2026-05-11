@@ -137,4 +137,4 @@ python -m scripts.infer_progression \
 
 ## Citation
 
-If you use this code, cite your associated manuscript and the Kaggle dataset (laithjj).
+If you use this code, cite your associated manuscript.
